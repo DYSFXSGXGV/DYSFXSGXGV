@@ -11,4 +11,5 @@ You can click the Preview link to take a look at your changes.
 Fight
 live
 heal 10sek
-
+schop
+inventar
